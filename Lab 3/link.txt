@@ -1,0 +1,5 @@
+ques1)
+https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Introduction_To_MIPS_Assembly_Language_Programming_(Kann)/02%3A_First_Programs_in_MIPS_Assembly/2.03%3A_First_Program_in_MIPS_Assembly
+
+ques2)
+https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Introduction_To_MIPS_Assembly_Language_Programming_(Kann)/02%3A_First_Programs_in_MIPS_Assembly/2.05%3A_Program_to_Prompt_and_Read_a_String_from_a_User
